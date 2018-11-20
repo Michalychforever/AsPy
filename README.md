@@ -16,8 +16,6 @@ Omftab.dat - the file with (\eta, \Omega_m/f^2), where \eta = log D, D is the li
 matterpower_horizonRun3.dat - the linear matter power spectrum of the Horizon Run simulation
 
 The codes are (hopefully) self-explaining, if you have problems, please e-mail @ ivanov(at)ias.edu  
-The details of the numerical algoritm are given in supplementary matherials *****.pdf 
+The details of the numerical algoritm are given in a supplementary file 'notes.pdf' 
  
-If you use this code in your research, please cite the paper arXiv:1810.xxxx
-
-(c) Mikhail Ivanov
+If you use this code in your research, please cite the paper arXiv:1811.xxxx
