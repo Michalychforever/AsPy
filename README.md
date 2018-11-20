@@ -13,7 +13,7 @@ Additional data files:
 
 Omftab.dat - the file with (\eta, \Omega_m/f^2), where \eta = log D, D is the linear growth factor, f is the logarithmic growth factor = dln D/dln a (a - scale factor),  \Omega_m(\eta) is the time-dependent matter density fraction.
 
-matterpower_horizonRun3.dat - the linear matter power spectrum of the Horizon Run simulation
+matterpower_horizonRun3.dat - the linear matter power spectrum of our simulations
 
 The codes are (hopefully) self-explaining, if you have problems, please e-mail @ ivanov(at)ias.edu  
 The details of the numerical algoritm are given in a supplementary file 'notes.pdf' 
