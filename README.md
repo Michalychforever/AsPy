@@ -18,4 +18,4 @@ matterpower_horizonRun3.dat - the linear matter power spectrum of our simulation
 The codes are (hopefully) self-explaining, if you have problems, please e-mail @ ivanov(at)ias.edu  
 The details of the numerical algoritm are given in a supplementary file 'notes.pdf' 
  
-If you use this code in your research, please cite the paper arXiv:1811.xxxx
+If you use this code in your research, please cite the paper arXiv:1811.07913
